@@ -1,3 +1,4 @@
 # sameer-demo
-Author: Sameer Tikekar
 This is my first Git repository
+<br>
+Author: Sameer Tikekar
